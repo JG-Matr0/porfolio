@@ -1,7 +1,6 @@
 ---
-title: Tema 1
+title: Entorns de desarrollo
 layout: default
 nav_order: 1
 parent: home
 ---
-Hola a todos amigos.
